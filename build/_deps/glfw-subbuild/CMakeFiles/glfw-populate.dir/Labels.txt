@@ -1,14 +1,14 @@
 # Target labels
  glfw-populate
 # Source files and their labels
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update.rule

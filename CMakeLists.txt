@@ -37,6 +37,8 @@ FetchContent_MakeAvailable(glad)
 # Add the executable
 add_executable(playground src/main.cpp)
 
+target_compile_features(playground PRIVATE cxx_std_20)
+
 # link it to your app
 target_link_libraries(playground PRIVATE glfw)
 target_link_libraries(playground PRIVATE glad)

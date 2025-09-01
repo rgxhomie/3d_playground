@@ -1,3 +1,3 @@
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/CMakeFiles/edit_cache.dir
-/home/borys/code/3d_stuff/build/_deps/glfw-subbuild/CMakeFiles/rebuild_cache.dir
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/CMakeFiles/edit_cache.dir
+/Users/borisgrimov/Desktop/code/3d_playground/build/_deps/glfw-subbuild/CMakeFiles/rebuild_cache.dir
